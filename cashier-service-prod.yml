@@ -1,0 +1,8 @@
+message: Esta configuracion es particular al ambiente productivo
+
+denominations: 10,20,50,100,500,1000
+
+max-cash-allowed: 10000
+
+server:
+  port: ${PORT:9998}
